@@ -5,6 +5,12 @@
 - **Name:** Hoàng Minh Triết <br>
 - **ID:** 20127652
 
+### Table of content
+1. Collecting data
+2. Exploring and preprocessing
+3. Asking question and answer
+4. Reflection
+5. Reference
 ### Dataset Information
 - **Author:** Saurabh Shahane (Owner) <br>
 - **Copyright:** Attribution 4.0 International <br>
